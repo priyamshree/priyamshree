@@ -6,7 +6,7 @@
 - ⚡ Fun fact: ... I love coding
 ## 🏅 Certifications
 
-[![AWS Generative AI Foundations](https://www.credly.com/badges/1762446c-b07f-40d9-824d5d7f0ac405cc)](https://www.credly.com/badges/1762446c-b07f-40d9-824d-5d7f0ac405cc/public_url)
+[![AWS Generative AI Foundations](https://images.credly.com/images/2e65fce6-81a2-476f-8fdc-68424eaa599c/blob)](https://www.credly.com/badges/1762446c-b07f-40d9-824d-5d7f0ac405cc/public_url)
 
 
 <!---
