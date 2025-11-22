@@ -1,15 +1,76 @@
-- 👋 Hi, I’m @priyamshree
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Web Development and Backend
-- 📫 How to reach me ... priyam1953shree@gmail.com
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I love coding
-## 🏅 Certifications
+<h1 align="center">👋 Hi, I'm Priyam Shree!</h1>
 
-[![AWS Generative AI Foundations](https://images.credly.com/images/2e65fce6-81a2-476f-8fdc-68424eaa599c/blob)](https://www.credly.com/badges/1762446c-b07f-40d9-824d-5d7f0ac405cc/public_url)
+<p align="center">
+🌟 B.Tech CSE (Data Science) @ SRM University  
+</p>
 
+---
 
-<!---
-priyamshree/priyamshree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍💻 About Me
+
+- 🎓 I'm a passionate learner exploring **AI, Machine Learning, Deep Learning, NLP, and Computer Vision**
+- 🧠 I enjoy solving real-world problems with data-driven intelligent systems
+- 🌐 I also work on **full-stack development (MERN)** and love building dynamic web apps
+- 🚀 Currently working on advanced projects like:
+  - Real-time Object Detection with Voice Captioning  
+  - Medical NLP App using BioGPT  
+  - 3D ResNet & DenseNet Cancer Classification  
+  - Supernova Detection using Deep Learning  
+- 🔥 I believe in “**Learn → Build → Iterate**”
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=databricks&logoColor=white)
+
+---
+
+### **Frameworks & Libraries**
+**AI / ML / DL**
+- TensorFlow • PyTorch • Scikit-Learn • OpenCV • Keras  
+
+**Web**
+- React.js • Next.js • Node.js • Express.js  
+
+**Database / Backend**
+- MongoDB • MySQL • Firebase  
+
+**UI / CSS**
+- Tailwind CSS • Bootstrap • Material UI  
+
+---
+
+### 🧰 Developer Tools
+VS Code • Git • GitHub • Jupyter • Colab • Kaggle • Postman • Docker
+
+---
+
+## 📌 Featured Projects
+
+🔹 **Real-Time Object Detection with Voice Output** (YOLO + TTS)  
+🔹 **BioGPT Medical NLP Assistant**  
+🔹 **3D ResNet-50 Chest CT Scan Classification**  
+🔹 **Cybersecurity Vulnerability Scanner (Advanced SQL)**  
+🔹 **Supernova Detection using Deep Learning**
+
+---
+
+## 📬 Connect With Me
+
+📍 Chennai, Tamil Nadu  
+📧 **yourmail@gmail.com**
+
+🌐 **Socials**  
+[GitHub](#) • [LinkedIn](#) • [Instagram](#)
+
+---
+
+### ⭐ Fun Fact  
+_"I break things to learn how they work — then build something better."_ 😄
