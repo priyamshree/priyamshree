@@ -65,10 +65,10 @@ VS Code • Git • GitHub • Jupyter • Colab • Kaggle • Postman • Dock
 ## 📬 Connect With Me
 
 📍 Chennai, Tamil Nadu  
-📧 **yourmail@gmail.com**
+📧 **priyam1953shree@gmail.com**
 
 🌐 **Socials**  
-[GitHub](#) • [LinkedIn](#) • [Instagram](#)
+[GitHub](#https://www.linkedin.com/in/priyamshree/) • [LinkedIn](#) • [Instagram](#)
 
 ---
 
