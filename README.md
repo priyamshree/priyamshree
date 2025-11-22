@@ -68,7 +68,7 @@ VS Code • Git • GitHub • Jupyter • Colab • Kaggle • Postman • Dock
 📧 **priyam1953shree@gmail.com**
 
 🌐 **Socials**  
-[GitHub](github.com/priyamshree) • [LinkedIn]([#](https://www.linkedin.com/in/priyamshree/)) • [Instagram](instagram.com/priyamxshree)
+[GitHub](github.com/priyamshree) • [LinkedIn](https://www.linkedin.com/in/priyamshree/) • [Instagram](instagram.com/priyamxshree)
 
 ---
 
