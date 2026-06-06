@@ -1,76 +1,191 @@
-<h1 align="center">👋 Hi, I'm Priyam Shree!</h1>
+<!-- PROFILE VIEWS -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+</p>
 
-<p align="center">
-🌟 B.Tech CSE (Data Science) @ SRM University  
+<!-- HEADER GIF -->
+<div align="center">
+  <img src="https://i.imgur.com/Z9n1y5S.gif" width="100%" />
+</div>
+
+<h1 align="center">
+  Hi 👋, I'm Priyam Shree
+</h1>
+
+<h3 align="center">
+Data Scientist • AI Enthusiast • Analytics Engineer • Problem Solver
+</h3>
+
+---
+
+## 🚀 About Me
+
+```python
+class PriyamShree:
+
+    def __init__(self):
+        self.education = "B.Tech CSE (Data Science) @ SRMIST"
+        self.cgpa = 8.36
+
+        self.interests = [
+            "Machine Learning",
+            "Data Science",
+            "Artificial Intelligence",
+            "Data Analytics",
+            "Backend Development",
+            "Research"
+        ]
+
+        self.languages = [
+            "Python",
+            "SQL",
+            "Java",
+            "C++"
+        ]
+
+        self.goal = "Building AI solutions that solve real-world problems"
+
+    def current_status(self):
+        return "Learning. Building. Improving."
+
+me = PriyamShree()
+print(me.current_status())
+```
+
+---
+
+## 🌌 Data Scientist Mindset
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=1000&lines=Turning+Data+into+Insights...;Turning+Insights+into+Products...;Building+AI+that+Creates+Impact...;Always+Learning+Something+New..." />
+
+---
+
+## 🧠 Tech Stack
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" />
+</p>
+
+### Data Science & AI
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+
+### Analytics & BI
+
+<p align="left">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+### Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 📊 GitHub Analytics
 
-- 🎓 I'm a passionate learner exploring **AI, Machine Learning, Deep Learning, NLP, and Computer Vision**
-- 🧠 I enjoy solving real-world problems with data-driven intelligent systems
-- 🌐 I also work on **full-stack development (MERN)** and love building dynamic web apps
-- 🚀 Currently working on advanced projects like:
-  - Real-time Object Detection with Voice Captioning  
-  - Medical NLP App using BioGPT  
-  - 3D ResNet & DenseNet Cancer Classification  
-  - Supernova Detection using Deep Learning  
-- 🔥 I believe in “**Learn → Build → Iterate**”
+<p align="center">
 
----
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🛠️ Tech Stack
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=databricks&logoColor=white)
+</p>
 
 ---
 
-### **Frameworks & Libraries**
-**AI / ML / DL**
-- TensorFlow • PyTorch • Scikit-Learn • OpenCV • Keras  
+## 🔥 Contribution Streak
 
-**Web**
-- React.js • Next.js • Node.js • Express.js  
-
-**Database / Backend**
-- MongoDB • MySQL • Firebase  
-
-**UI / CSS**
-- Tailwind CSS • Bootstrap • Material UI  
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### 🧰 Developer Tools
-VS Code • Git • GitHub • Jupyter • Colab • Kaggle • Postman • Docker
+## 📈 Contribution Graph
+
+[![Priyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
 
 ---
 
-## 📌 Featured Projects
+## 🎯 Current Focus
 
-🔹 **Real-Time Object Detection with Voice Output** (YOLO + TTS)  
-🔹 **BioGPT Medical NLP Assistant**  
-🔹 **3D ResNet-50 Chest CT Scan Classification**  
-🔹 **Cybersecurity Vulnerability Scanner (Advanced SQL)**  
-🔹 **Supernova Detection using Deep Learning**
-
----
-
-## 📬 Connect With Me
-
-📍 Chennai, Tamil Nadu  
-📧 **priyam1953shree@gmail.com**
-
-🌐 **Socials**  
-[GitHub](github.com/priyamshree) • [LinkedIn](https://www.linkedin.com/in/priyamshree/) • [Instagram](instagram.com/priyamxshree)
+- 🤖 Machine Learning & Deep Learning
+- 📊 Advanced Data Analytics
+- 🧠 AI Research
+- 🗄️ SQL Optimization
+- ☁️ Data Engineering Fundamentals
+- 🚀 Building impactful projects
 
 ---
 
-### ⭐ Fun Fact  
-_"I break things to learn how they work — then build something better."_ 😄
+## 🏆 Achievements Roadmap
+
+```text
+✓ Data Analytics Projects
+✓ Dashboard Development
+✓ Java Applications
+
+◉ Research Publication
+◉ AI/ML Projects at Scale
+◉ Open Source Contributions
+◉ Internship Experience
+◉ 30+ LPA Placement Goal
+```
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Fun Fact
+
+*"Data is the new oil, but insights are the refined fuel."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" width="100%" />
+
+</div>
