@@ -1,12 +1,14 @@
+
 <!-- PROFILE VIEWS -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=priyamshree&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 <!-- HEADER GIF -->
-<div align="center">
-  <img src="https://i.imgur.com/Z9n1y5S.gif" width="100%" />
-</div>
+<p align="center">
+  <img src="https://i.imgur.com/Z9n1y5S.gif" width="200"/>
+  
+</p>
 
 <h1 align="center">
   Hi 👋, I'm Priyam Shree
@@ -99,31 +101,17 @@ print(me.current_status())
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=priyamshree&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Priyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Priyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyamshree&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
 
 ---
 
